@@ -1,0 +1,12 @@
+PyMuPDF
+python-dotenv
+transformers
+torch==2.13.0
+Pillow
+numpy
+langchain
+langchain-core
+langchain-community
+langchain-nvidia-ai-endpoints
+faiss-cpu==1.13.2 
+scikit-learn
